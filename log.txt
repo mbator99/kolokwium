@@ -1,0 +1,61 @@
+commit ebfe5e81c2bbff80fe91fdb49beb5197a9cc4804
+Author: Marek <ma11354@wp.pl>
+Date:   Thu Apr 2 11:26:51 2020 +0200
+
+    ignorowanie.doc
+
+commit ca4e166dca79e8ef641b9b1aa3cad65e9fa2807c
+Author: Marek <ma11354@wp.pl>
+Date:   Thu Apr 2 11:14:47 2020 +0200
+
+    ryba
+
+commit e2db76667e79fe4c8f60c65b7873e695e52bbded
+Merge: 0edd814 08dfac3
+Author: Marek <ma11354@wp.pl>
+Date:   Thu Apr 2 11:12:26 2020 +0200
+
+    Merge branch 'master' of https://github.com/mbator99/kolokwium
+    drhgdggdgdgdrg# the commit.
+
+commit 0edd8149bbff93dd8a4fc0d5115f783da9237da1
+Author: Marek <ma11354@wp.pl>
+Date:   Thu Apr 2 11:08:56 2020 +0200
+
+    fef
+
+commit ba53e5639ead837ac70905137a5e44053de09504
+Author: Marek <ma11354@wp.pl>
+Date:   Thu Apr 2 11:03:52 2020 +0200
+
+    ryba
+
+commit 08dfac3b2dfa6466b589705414f79ebc06491088
+Author: mbator99 <63008077+mbator99@users.noreply.github.com>
+Date:   Wed Apr 1 19:26:44 2020 +0200
+
+    Create README.md
+
+commit 6efea8f89bbf015fe5bcb3ef1ecd74b0912ef52a
+Author: Marek <ma11354@wp.pl>
+Date:   Wed Apr 1 19:05:51 2020 +0200
+
+    adaw
+
+commit 0db24f5f85e0b2c0dc3bc5b0e0b6ae973574fe0f
+Author: Marek <ma11354@wp.pl>
+Date:   Wed Apr 1 19:03:47 2020 +0200
+
+    komiydfs
+
+commit 88014dcc96e45ec6f0b9f0d1f800548f6a0f18b1
+Author: Marek <ma11354@wp.pl>
+Date:   Wed Apr 1 19:02:09 2020 +0200
+
+    komiy
+
+commit d2dda14ee5497fddd83006d01178620fdf3ada0f
+Author: Marek <ma11354@wp.pl>
+Date:   Wed Apr 1 18:56:02 2020 +0200
+
+    Initialize repository
