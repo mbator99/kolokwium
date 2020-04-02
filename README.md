@@ -1,2 +1,0 @@
-# kolokwium
-czczcz
