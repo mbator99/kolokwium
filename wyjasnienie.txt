@@ -1,0 +1,1 @@
+Nie ma pliku Rzeka.txt z linią "Dorsz podszeł na solarium", ponieważ zmiany zostały dokonane na innym branchu 
